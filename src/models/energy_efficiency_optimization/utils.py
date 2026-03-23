@@ -47,4 +47,4 @@ def load_model(filename: str):
     """
     return joblib.load(filename)
 
-
+
