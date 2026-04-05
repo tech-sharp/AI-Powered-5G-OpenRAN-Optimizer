@@ -51,4 +51,4 @@ python test.py
 This command will run a series of tests to ensure that the system is installed correctly and all the dependencies are satisfied.
 
 ## Conclusion
-Congratulations! You have successfully installed the network optimization system on your local machine. You can now use the system to optimize your network resources and improve your network performance. For more information on how to use the system, please refer to the User Guide.
+Congratulations! You have successfully installed the network optimization system on your local machine. You can now use the system to optimize your network resources and improve your network performance. For more information on how to use the system, please refer to the User Guide.
