@@ -45,4 +45,4 @@ class DataExtractor:
         df = pd.read_csv(file_path)
         self.logger.info("Data loaded successfully")
         return df
-
+

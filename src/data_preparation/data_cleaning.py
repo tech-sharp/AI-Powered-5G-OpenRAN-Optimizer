@@ -58,4 +58,4 @@ def replace_values(df: pd.DataFrame, replacement_dict: dict) -> pd.DataFrame:
         A new DataFrame with values replaced.
     """
     return df.replace(to_replace=replacement_dict)
-
+
