@@ -33,4 +33,4 @@ def postprocess_predictions(predictions):
             actions.append("Add a new network node")
         else:
             actions.append("Remove an existing network node")
-    return actions
+    return actions
