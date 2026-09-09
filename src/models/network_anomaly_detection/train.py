@@ -31,4 +31,4 @@ if __name__ == '__main__':
     train(model, train_loader, val_loader, optimizer, num_epochs=args.num_epochs)
 
     # Save trained model
-    torch.save(model.state_dict(), 'network_anomaly_detection.pt')
+    torch.save(model.state_dict(), 'network_anomaly_detection.pt')

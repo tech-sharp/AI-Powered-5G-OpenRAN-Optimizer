@@ -15,4 +15,4 @@ class DataUtils:
         x_test = self.preprocess_data(x_test)
         y_train = np.asarray(y_train).astype('float32')
         y_test = np.asarray(y_test).astype('float32')
-        return x_train, x_test, y_train, y_test
+        return x_train, x_test, y_train, y_test

@@ -21,4 +21,4 @@ predictions = model.predict(preprocessed_data)
 
 # Print predicted labels
 print("Predictions:")
-print(predictions)
+print(predictions)
