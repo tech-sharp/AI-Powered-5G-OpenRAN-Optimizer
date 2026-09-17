@@ -33,4 +33,4 @@ def save_data(data, file_path):
         file_path (str): The path to the file to save.
     """
     pd.DataFrame(data).to_csv(file_path, index=False)
-
+
