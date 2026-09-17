@@ -25,4 +25,4 @@ class DynamicNetworkOptimizationModel(tf.keras.Model):
         x = self.dropout(x)
         output = self.dense2(x)
         return output
-
+
