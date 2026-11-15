@@ -18,4 +18,4 @@ class PNPDataset(Dataset):
         inputs = torch.Tensor(self.input_data[idx])
         targets = torch.Tensor(self.output_data[idx])
         return inputs, targets
-
+
