@@ -70,4 +70,4 @@ This project is a work in progress, and we welcome contributions from developers
 This project is released under the Apache-2.0 License.
 
 ## Disclaimer
-This project is still a work in progress. We're actively working on improving the system and adding more features. Please keep in mind that the code is still under development, and we may make breaking changes in the future. We appreciate your understanding and patience.
+This project is still a work in progress. We're actively working on improving the system and adding more features. Please keep in mind that the code is still under development, and we may make breaking changes in the future. We appreciate your understanding and patience.
